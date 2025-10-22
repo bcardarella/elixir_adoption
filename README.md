@@ -5,7 +5,6 @@ This repository contains the comprehensive Elixir adoption and marketing strateg
 ## Documents
 
 - **[proposal.md](proposal.md)** - Full detailed proposal document
-- **[ideas.md](ideas.md)** - Original brainstorming and ideas collection
 
 ## Presentation
 
