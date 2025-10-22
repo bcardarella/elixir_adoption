@@ -1,0 +1,19 @@
+{
+  "name": "elixir_marketing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "slides": "marp slides/elixir-adoption-strategy.md -o slides/elixir-adoption-strategy.html",
+    "slides:watch": "marp slides/elixir-adoption-strategy.md -o slides/elixir-adoption-strategy.html --watch",
+    "slides:pdf": "marp slides/elixir-adoption-strategy.md -o slides/elixir-adoption-strategy.pdf --pdf",
+    "slides:pptx": "marp slides/elixir-adoption-strategy.md -o slides/elixir-adoption-strategy.pptx --pptx",
+    "slides:server": "marp -s slides/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^4.2.3"
+  }
+}
