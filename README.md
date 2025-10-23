@@ -1,4 +1,4 @@
-> **NOTE** This is not an official proposal. A form of this was submitted to Elixir Core but was dismissed.
+> **NOTE** This is not an official proposal. A form of this was submitted to Elixir Core but was dismissed, for the most part.
 > They represent learnings from over 200 interviews from current and former Elixir devs working at all stage of company.
 > The conclusions and recommendations are ones I made independantly in the Fall of 2024.
 
